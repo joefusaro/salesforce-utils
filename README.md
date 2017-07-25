@@ -1,6 +1,9 @@
 # Some Salesforce Utilities
 
-Utilities for generating CSV files from Salesforce metadata.
+
+## SalesforceMetadataGenerator
+
+Simple way of generating a CSV file containing Salesforce metadata for a table.
 
 ```
 from code.core import SalesforceMetadataGenerator
