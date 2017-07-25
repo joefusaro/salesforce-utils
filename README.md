@@ -1,5 +1,6 @@
 # Some Salesforce Utilities
 
+Some Salesforce utilities built on top of simple_salesforce
 
 ## SalesforceMetadataGenerator
 
